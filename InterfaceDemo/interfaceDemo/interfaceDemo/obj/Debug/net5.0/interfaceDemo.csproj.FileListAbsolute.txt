@@ -1,0 +1,16 @@
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\bin\Debug\net5.0\interfaceDemo.exe
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\bin\Debug\net5.0\interfaceDemo.deps.json
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\bin\Debug\net5.0\interfaceDemo.runtimeconfig.json
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\bin\Debug\net5.0\interfaceDemo.runtimeconfig.dev.json
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\bin\Debug\net5.0\interfaceDemo.dll
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\bin\Debug\net5.0\ref\interfaceDemo.dll
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\bin\Debug\net5.0\interfaceDemo.pdb
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.csproj.AssemblyReference.cache
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.AssemblyInfoInputs.cache
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.AssemblyInfo.cs
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.dll
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\obj\Debug\net5.0\ref\interfaceDemo.dll
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.pdb
+C:\Users\mmin\Desktop\InterfaceDemo\interfaceDemo\interfaceDemo\obj\Debug\net5.0\interfaceDemo.genruntimeconfig.cache
