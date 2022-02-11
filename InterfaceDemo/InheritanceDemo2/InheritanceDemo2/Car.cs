@@ -16,6 +16,7 @@ namespace InheritanceDemo2
         //this list is of type IDestroyable which means it can store any object
         //that implements this interface and we can only access the properties and
         //methods in this interface
+        public List<IDestroyable> DestroyablesNearby;
 
         //simple constructor
         public Car(float speed, string color)
@@ -23,6 +24,24 @@ namespace InheritanceDemo2
         {
             this.Speed = speed;
             this.Color = color;
+            //initialize the interface's property with a value in the constructor
+            DestructionSound = "CarExplosionSound.mp3";
+            //initialize the list of destroyable objects
+            DestroyablesNearby = new List<IDestroyable>();
+        }
+
+        //implementing the interface's method
+        public void Destroy()
+        {
+            //when a car gets destroyed we should play the destruction sound
+            //and fire effect
+            Console.WriteLine("Playing destruction sound {0}", DestructionSound);
+            Console.WriteLine("Create fire");
+            //go through each destroyable object nearby and call it's destroy method
+            foreach (IDestroyable destroyable in DestroyablesNearby)
+            {
+                destroyable.Destroy();
+            }
         }
     }
 }
